@@ -1,4 +1,4 @@
-# Modelling-the-Stock-Market
+# Modelling-the-Stock-Market (April 2017)
  
 by Jérôme E. Blanchet, Senior Analyst | Data Scientist
 
